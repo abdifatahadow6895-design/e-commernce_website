@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexshop.com/sitemap.xml
+
+Disallow: /admin
+Disallow: /cart
+Disallow: /checkout
+Disallow: /profile

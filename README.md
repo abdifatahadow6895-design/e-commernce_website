@@ -1,10 +1,18 @@
 # NexShop - Premium E-Commerce Platform
 
-A modern, full-stack e-commerce application built with React, TypeScript, Tailwind CSS, Node.js, Express.js, and MongoDB.
+A modern, full-stack e-commerce application built with React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Redis, and Socket.io.
 
 ![NexShop](https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=1200)
 
 ## Features
+
+- AI-powered product recommendations and frequently-bought-together suggestions
+- Real-time notifications and live order updates with Socket.io
+- PWA support with installable mobile experience
+- GitHub Actions CI/CD and Docker deployment support
+- Redis caching and sales forecasting for analytics
+- Advanced admin dashboard, order tracking, and support ticket flow
+- Swagger API docs at /api/docs
 
 ### Customer Features
 - **Shop & Browse** - Product catalog with search, filters, sorting, and pagination

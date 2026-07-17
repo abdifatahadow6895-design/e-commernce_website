@@ -59,10 +59,10 @@ export default function Footer() {
             <h4 className="font-semibold text-gray-900 dark:text-gray-100">Contact Us</h4>
             <ul className="mt-4 space-y-3">
               <li className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
-                <MapPin className="h-4 w-4 shrink-0 text-primary-600" /> 123 Commerce St, New York, NY
+                <MapPin className="h-4 w-4 shrink-0 text-primary-600" />  Commerce St, New York, NY
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
-                <Phone className="h-4 w-4 shrink-0 text-primary-600" /> +1 (555) 123-4567
+                <Phone className="h-4 w-4 shrink-0 text-primary-600" /> +254(7)22381031
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
                 <Mail className="h-4 w-4 shrink-0 text-primary-600" /> support@nexshop.com
